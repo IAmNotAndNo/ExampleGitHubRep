@@ -15,8 +15,8 @@ namespace ExampleGitHub
             Console.ReadLine();
 
             //Писать тут
-            
 
+            Console.WriteLine("Новая команда");
 
             //Тут не писать
 
